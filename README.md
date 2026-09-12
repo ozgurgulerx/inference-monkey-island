@@ -1,4 +1,4 @@
-![Inference Monkey Island — retro adventure-game pixel art](assets/inference-monkey-island.png)
+![The tokens must flow — Dune-inspired inference pixel art](assets/dune-tokens-must-flow.png)
 
 My name is Ozgur Guler.
 

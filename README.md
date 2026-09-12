@@ -1,4 +1,4 @@
-![A new hope for inference engineering](assets/inference-a-new-hope.png)
+![Inference Monkey Island — retro adventure-game pixel art](assets/inference-monkey-island.png)
 
 My name is Ozgur Guler.
 

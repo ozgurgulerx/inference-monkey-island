@@ -3,3 +3,7 @@
 My name is Özgür Güler.
 
 This repo is my journey into inference engineering: building, scaling, and optimizing LLM inference stacks in the real world.
+
+## Daily journal
+
+- [Day 001 — Leto: Inference refresher — A New Hope](day-001-leto-inference-refresher-a-new-hope.md)

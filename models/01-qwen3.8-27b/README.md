@@ -2,7 +2,7 @@
 
 [Architecture notes](architecture.md) · [Experiments](experiments/) · [All models](../README.md)
 
-[Day 001 journal](../../days/day-001-250912-leto-inference-refresher-a-new-hope/README.md)
+[Day 001 journal](../../days/day-001-250912-inference-qwen-3.8-27b.md/README.md)
 
 ## Overview
 Qwen3.8 is a dense (not MoE) vision-language model built on Qwen3.6 architecture. 

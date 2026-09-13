@@ -8,4 +8,4 @@ This repo is my journey into inference engineering: building, scaling, and optim
 
 [Browse Days](days/)
 
-- [Day 001 · 2026-09-12 — Leto: Inference refresher — A New Hope](days/day-001-260912-leto-inference-refresher-a-new-hope/)
+- [Day 001 · 250912 — Leto: Inference refresher — A New Hope](days/day-001-250912-leto-inference-refresher-a-new-hope/)

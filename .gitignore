@@ -78,6 +78,3 @@
 
 # Exact requested Qwen technical study backbone.
 !/models/01-qwen3.8-27b/list01-study-levels.md
-
-# Exact user-supplied Qwen practical inference checklist.
-!/models/01-qwen3.8-27b/list01-qwen3.8-27b-inference.md

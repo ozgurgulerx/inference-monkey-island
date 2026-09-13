@@ -25,9 +25,8 @@ Mweights​≈27×109×2=54 GB≈50.3 GiB
 
 [HF Model Card](https://huggingface.co/Qwen/Qwen3.8-27B?utm_source=chatgpt.com)
 
-[List 01 — study microtasks and completion gates](list01-study-levels.md)
+[Start here — Qwen inference guide, from first session to deeper experiments](list01-study-levels.md)
 
-[List 01 — detailed practical inference checklist](list01-qwen3.8-27b-inference.md)
 
 
 

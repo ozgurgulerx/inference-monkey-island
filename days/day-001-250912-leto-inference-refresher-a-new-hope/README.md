@@ -116,3 +116,4 @@ Reference to follow: encoding documentation.
 For the labs, I plan to start with vLLM, reproduce selected results in SGLang, then bring in Dynamo when I study routing and disaggregation. I will choose the subject as I go; this gives me a starting point for the tooling.
 
 My test of progress will be concrete: predict the bottleneck, measure it, improve it, and explain where the improvement stops working. I want to build that evidence across a few architectures. At the end of each study day, I will take the interview perspective: explain the concept, apply it to a serving scenario, and defend what my measurements support.
+

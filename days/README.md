@@ -2,6 +2,6 @@
 
 One folder and one journal entry per study day.
 
-- [Day 001 — Leto: Inference refresher — A New Hope](day-001-leto-inference-refresher-a-new-hope/day-001-leto-inference-refresher-a-new-hope.md)
+- [Day 001 — Leto: Inference refresher — A New Hope](day-001-260912-leto-inference-refresher-a-new-hope/)
 
 [Back to the main page](../README.md)

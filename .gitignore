@@ -1,0 +1,19 @@
+# Public journal export only. Everything else is ignored by default.
+/*
+
+# Tracking policy and public navigation.
+!/.gitignore
+!/README.md
+!/days/
+/days/*
+!/days/README.md
+
+# One public README per numbered, dated study day; no attachments or extras.
+!/days/day-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][0-9][0-9]-*/
+/days/day-*/*
+!/days/day-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][0-9][0-9]-*/README.md
+
+# Exact assets required by the public READMEs.
+!/assets/
+/assets/*
+!/assets/dune-tokens-must-flow.png
